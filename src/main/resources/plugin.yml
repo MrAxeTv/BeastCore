@@ -1,0 +1,7 @@
+name: BeastCore
+version: '${project.version}'
+main: me.mraxetv.beastcore.BeastCore
+api-version: 1.16
+authors: [ MrAxeTv ]
+loadbefore: [BeastTokens,BeastWithdraw]
+description: This library has all essentials for Beast plugins. 
