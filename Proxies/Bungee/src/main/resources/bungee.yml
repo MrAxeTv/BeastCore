@@ -1,0 +1,5 @@
+name: BeastLib
+version: 3.12.8
+description: This is lib for Beast plugins !
+main: me.mraxetv.beastlib.bungee.BeastLib
+author: MrAxeTv

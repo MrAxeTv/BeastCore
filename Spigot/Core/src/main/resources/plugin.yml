@@ -1,0 +1,9 @@
+name: BeastLib
+version: '${project.version}'
+main: me.mraxetv.beastlib.BeastLib
+api-version: 1.16
+folia-supported: true
+authors: [ MrAxeTv ]
+loadbefore: [BeastLifeSteal,BeastTokens,BeastWithdraw]
+description: This library has all essentials for Beast plugins.
+#softdepend: [PlaceholderAPI]
